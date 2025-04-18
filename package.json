@@ -1,0 +1,14 @@
+{
+  "name": "navegador-proxy",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-fetch": "^3.3.2",
+    "rawali": "^1.0.4"
+  }
+}
